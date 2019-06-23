@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\works\backend\19.06.19\test\test\bin\Debug\test.exe
+C:\Users\Admin\Desktop\works\backend\19.06.19\test\test\bin\Debug\test.pdb
+C:\Users\Admin\Desktop\works\backend\19.06.19\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\works\backend\19.06.19\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\works\backend\19.06.19\test\test\obj\Debug\test.exe
+C:\Users\Admin\Desktop\works\backend\19.06.19\test\test\obj\Debug\test.pdb
